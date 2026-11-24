@@ -1,7 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## NAME: M AADHAVAN NAGARAJAN
 ## REGISTER NUMBER: 212225040001
-## AIM
+## AIM:
+Python program to perform stop and wait protocol
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
